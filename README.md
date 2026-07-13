@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Manahil Mustafa
+# Hi there I'm Manahil Mustafa
 
 ### AI Automation Developer | n8n Workflow Builder | AI Agent Developer
 
@@ -18,18 +18,18 @@ I build AI-powered automation systems that help businesses reduce repetitive wor
 
 ---
 
-## 💫 About Me
+##  About Me
 
-- 🔭 Currently building **AI automation workflows, AI agents, and business process automation systems**
+-  Currently building **AI automation workflows, AI agents, and business process automation systems**
 - 🤝 Open to collaborating on **n8n automation, API integrations, AI agents, and workflow optimization**
-- 💼 Available for freelance opportunities in **AI automation and custom workflow development**
-- 🌱 Currently learning **Advanced AI Agents, Agentic AI, LangChain, MCP, AWS, and production-ready automation**
+-  Available for freelance opportunities in **AI automation and custom workflow development**
+-  Currently learning **Advanced AI Agents, Agentic AI, LangChain, MCP, AWS, and production-ready automation**
 - 💬 Ask me about **n8n, Google Gemini API, OpenRouter, WhatsApp Cloud API, Facebook Graph API, Google Workspace APIs, REST APIs, and webhooks**
 - ⚡ I enjoy turning repetitive manual processes into reliable automated workflows
 
 ---
 
-## 🌐 Portfolio
+##  Portfolio
 
 🚀 **Live Portfolio:**  
 [manahilmustafa870.github.io/manahil-portfolio](https://manahilmustafa870.github.io/manahil-portfolio/)
@@ -38,7 +38,7 @@ Explore my AI automation projects, workflow case studies, and web development wo
 
 ---
 
-## 💼 Services
+##  Services
 
 - AI Workflow Automation
 - n8n Automation
